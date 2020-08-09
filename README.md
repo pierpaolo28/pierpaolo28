@@ -4,7 +4,7 @@
 [![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pierpaolo28)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pierpaolo28?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/pierpaolo28.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pierpaolo28?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pier_Paolo_28.svg?style=social)](https://twitter.com/Pier_Paolo_28)  
 
 
