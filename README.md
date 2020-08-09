@@ -10,7 +10,7 @@
 
 I am a final year MSc in Artificial Intelligence student at the [University of Southampton](https://www.southampton.ac.uk/) and [SAS Data Scientist](https://www.sas.com/en_gb/home.html). I have a strong interest in AI advancements and machine learning applications (such as finance and medicine). Outside my degree course, I am a writer for [Towards Data Science](https://towardsdatascience.com/@pierpaoloippolito28) and a [Kaggle Contributor](https://www.kaggle.com/pierpaolo28). 
 
-![timeline.gif](timeline.gif)
+![https://github.com/pierpaolo28/pierpaolo28/blob/master/timeline.gif](timeline.gif)
 
 <details>
   <summary> <b> Statistics about my profile </b> <i> (Click to expand!)</i> </summary>
