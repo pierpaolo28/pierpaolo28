@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pier_Paolo_28.svg?style=social)](https://twitter.com/Pier_Paolo_28)  
 
 
-I am a [SAS Data Scientist](https://www.sas.com/en_gb/home.html) and MSc in Artificial Intelligence graduate from the [University of Southampton](https://www.southampton.ac.uk/). I have a strong interest in AI advancements and machine learning applications (such as finance and medicine). Outside my degree course, I am a writer for [Towards Data Science](https://towardsdatascience.com/@pierpaoloippolito28) and Freelancer.
+I am a [SAS Data Scientist](https://www.sas.com/en_gb/home.html) and MSc in Artificial Intelligence graduate from the [University of Southampton](https://www.southampton.ac.uk/). I have a strong interest in research areas such as Data Science, Machine Learning, and Cloud Development. Aside from my work activities, I am a writer for [Towards Data Science](https://towardsdatascience.com/@pierpaoloippolito28) and Freelancer.
 
 ![](https://github.com/pierpaolo28/pierpaolo28/blob/master/timeline.gif)
 
