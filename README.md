@@ -7,8 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/pierpaolo28.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pierpaolo28?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pier_Paolo_28.svg?style=social)](https://twitter.com/Pier_Paolo_28)  
 
-
-GenAI @ Google and MSc in Artificial Intelligence holder from the [University of Southampton](https://www.southampton.ac.uk/). I have a strong interest in research areas such as Data Science, Machine Learning, and Cloud Development. Aside from my work activities, I am a [technical writer](https://ppiconsulting.dev/) for publications such as [Towards Data Science](https://towardsdatascience.com/@pierpaoloippolito28).
+GenAI @ Google and INSEAD Alumni with an interest in research areas such as Data Science, Machine Learning, and Product Development. Aside from my work activities, I am a [technical writer/editor](https://ppiconsulting.dev/) for publications such as [Towards Data Science](https://towardsdatascience.com/@pierpaoloippolito28).
 
 ![](https://github.com/pierpaolo28/pierpaolo28/blob/master/timeline.gif)
 
