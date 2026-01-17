@@ -12,11 +12,13 @@ GenAI @ Google and INSEAD Alumni with an interest in research areas such as Data
 ![](https://github.com/pierpaolo28/pierpaolo28/blob/master/timeline.gif)
 
 <details>
-  <summary> <b> Statistics about my profile </b> <i> (Click to expand!)</i> </summary>
-  
-  [![Github Stats By pierpaolo28](https://github-readme-stats.vercel.app/api?username=pierpaolo28&hide=prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
-  [![Github Langs By pierpaolo28](https://github-readme-stats.vercel.app/api/top-langs/?username=pierpaolo28&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
----
+  <summary><b>Statistics about my profile</b> <i>(Click to expand!)</i></summary>
+  <br/>
+
+  [![Github Stats By pierpaolo28](https://github-readme-stats-eight-theta.vercel.app/api?username=pierpaolo28&hide=prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Github Langs By pierpaolo28](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pierpaolo28&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/pierpaolo28/
